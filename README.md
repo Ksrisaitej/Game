@@ -1,2 +1,1 @@
-# Game
-It's my code
+It's my first code
