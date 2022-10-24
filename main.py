@@ -5,7 +5,7 @@ guess_num = random.randint(1, 10)
 while True :
     print('''
 1. factors of a number
-2. guess game (not working)
+2. guess game 
 3. quit
 ''')
 
